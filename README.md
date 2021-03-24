@@ -1,6 +1,6 @@
 # Self-Driving Car Finding Lane Lines
 
-Build an software pipeline to identify and track the position of the lane lines in a video stream.
+Build a software pipeline to identify and track the position of the lane lines in a video stream.
 
 ### Table of Contents
 
